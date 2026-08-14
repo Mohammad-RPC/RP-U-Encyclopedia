@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>دانشنامه کاراکترهای آرپی سیتی</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="icon" type="image/png" href="images/RPU Icoon.png">
+
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<a href="https://www.rubika.ir/CHANEL1_RP_U" target="_blank">
+
+<img src="images/Site logo.png" id="siteLogo" alt="Site logo">
+
+</a>
+
+<h2 class="logo">
+
+RP U | آرپی یو
+
+</h2>
+
+<h1>
+
+دانشنامه کاراکترهای آرپی سیتی
+
+</h1>
+
+</header>
+
+<div id="searchBox">
+
+<input
+type="text"
+id="search"
+placeholder="🔍 جستجوی کاراکتر..."
+onkeyup="searchCharacters()">
+
+</div>
+
+<div id="filters">
+
+<select id="itemFilter" onchange="searchCharacters()">
+<option value="all">🎒 انتخاب کنید:</option>
+<option value="yes">🎒✔️ دارای آیتم</option>
+<option value="no">🎒❌ بدون آیتم</option>
+</select>
+
+<select id="vehicleFilter" onchange="searchCharacters()">
+<option value="all">🚗 انتخاب کنید:</option>
+<option value="yes">🚗✔️ دارای وسیله نقلیه</option>
+<option value="no">🚗❌ بدون وسیله نقلیه</option>
+</select>
+
+<select id="typeFilter" onchange="searchCharacters()">
+<option value="all">🎭 نوع اسکین را انتخاب کنید</option>
+<option value="عادی">عادی</option>
+<option value="معمولی">معمولی</option>
+<option value="کمیاب">کمیاب</option>
+<option value="حماسی">حماسی</option>
+<option value="افسانه‌ای">افسانه‌ای</option>
+</select>
+
+</div>
+
+<div id="characterList">
+</div>
+
+<div id="noResult" style="display:none;">
+❌ هیچ کاراکتری پیدا نشد ❌
+</div>
+
+<!-- دکمه های کاراکترها اینجا ساخته میشوند -->
+
+</div>
+
+<div id="characterPage" class="hidden">
+
+<div class="card">
+
+<img id="charImage" src="" alt="عکس کاراکتر">
+
+<h2 id="charName"></h2>
+
+<div class="info">
+
+<p>
+
+<b>💼 شغل:</b>
+
+<span id="charJob"></span>
+
+</p>
+
+<p>
+
+<b>🎭 نوع اسکین:</b>
+
+<span id="charType"></span>
+
+</p>
+
+<p>
+
+<b>⭐ سطح موردنیاز:</b>
+
+<span id="charLevel"></span>
+
+</p>
+
+<p>
+
+<b>📍 محل کار:</b>
+
+<span id="charPlace"></span>
+
+</p>
+
+<p>
+
+<b>🚗 وسیله نقلیه:</b>
+
+<span id="charVehicle"></span>
+
+</p>
+
+<p>
+
+<b>🎒 آیتم ها:</b>
+
+</p>
+
+<ul id="charItems">
+
+</ul>
+
+<p>
+
+<b>📝 توضیحات:</b>
+
+</p>
+
+<div id="charDescription"></div>
+
+</div>
+
+</div>
+
+<button id="copyBtn" onclick="copyCharacter()">
+📋 کپی اطلاعات
+</button>
+
+<button id="backBtn" onclick="goBack()">
+⬅ بازگشت به لیست کاراکترها
+</button>
+
+</div>
+
+<footer>
+
+<p><b>ساخته شده توسط RP U | آرپی یو</b></p>
+
+<br>
+
+نسخه <b>1.0.0</b> (بر اساس نسخه <b>1.42</b> بازی)</p>
+
+<p>آخرین بروزرسانی: <b>۲ مرداد ۱۴۰۵</b> (۳۳ اسکین)</p>
+
+</footer>
+<script src="database.js"></script>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
