@@ -3,7 +3,7 @@
 {
 id:1,
 name:"بابک نونــــــــ🍞ــــــوا",
-image:"images/1 (10).png",
+image:"1 (10).png",
 job:"نانوا",
 type:"عادی",
 workplace:"نانوایی",
@@ -21,7 +21,7 @@ description:""
 {
 id:2,
 name:"بابا جان",
-image:"images/1 (11).png",
+image:"1 (11).png",
 job:"کشـــ🌾ـــــاورز",
 type:"عادی",
 workplace:"مزرعه",
@@ -41,7 +41,7 @@ description:""
 {
 id:3,
 name:"نصرت تـــــ👨‍🍳ـــــه دیگ",
-image:"images/1 (12).png",
+image:"1 (12).png",
 job:"آشپز",
 type:"معمولی",
 workplace:"کافه عمو حسن",
@@ -50,7 +50,7 @@ vehicle:"ندارد",
 items:[
 "نون ساندویچی (سطح ۳) 🥖",
 "دمنوش (سطح ۳) ☕",
-"املت (سطح ۴) 🍳",
+"املت (سطح ۴) \uE900",
 "نیمرو (سطح ۴) 🍳",
 "سوپ (سطح ۴) 🍲",
 "پیتزا (سطح ۴) 🍕"
@@ -61,7 +61,7 @@ description:""
 {
 id:4,
 name:"مهنـــــ‍🎓ـــــدس شری",
-image:"images/1 (13).png",
+image:"1 (13).png",
 job:"استاد دانشگاه",
 type:"معمولی",
 workplace:"دانشگاه",
@@ -76,7 +76,7 @@ description:" سطح ۳: پاسخگویی به سوالات طبقه اول دا
 {
 id:5,
 name:"غلام قصـــــاب",
-image:"images/1 (14).png",
+image:"1 (14).png",
 job:"قصاب",
 type:"معمولی",
 workplace:"کافه عمو حسن",
@@ -91,7 +91,7 @@ description:""
 {
 id:6,
 name:"شهـــــ👩ـــــرزاد",
-image:"images/1 (15).png",
+image:"1 (15).png",
 job:"شهروند",
 type:"معمولی",
 workplace:"ندارد",
@@ -104,7 +104,7 @@ description:""
 {
 id:7,
 name:"سارا زبـــــ👩ـــــل",
-image:"images/1 (16).png",
+image:"1 (16).png",
 job:"شهروند",
 type:"معمولی",
 workplace:"ندارد",
@@ -117,7 +117,7 @@ description:""
 {
 id:8,
 name:"اسی خرشـــــ⚽ـــــوت",
-image:"images/1 (17).png",
+image:"1 (17).png",
 job:"فوتبالیست",
 type:"معمولی",
 workplace:"زمین فوتبال",
@@ -130,7 +130,7 @@ description:"مهارت ویژه: ورود به زمین فوتبال و فوت�
 {
 id:9,
 name:"صمـــــ⚽ــــــد وی ای آر",
-image:"images/1 (18).png",
+image:"1 (18).png",
 job:"داور فوتبال",
 type:"معمولی",
 workplace:"ندارد",
@@ -143,7 +143,7 @@ description:""
 {
 id:10,
 name:"نقاب ســـــ🎭ـــــیاه",
-image:"images/1 (19).png",
+image:"1 (19).png",
 job:"ناشناس",
 type:"معمولی",
 workplace:"ندارد",
@@ -156,7 +156,7 @@ description:"یکی از مرموزترین اسکین‌های بازی."
 {
 id:11,
 name:"نــنـــــ👵ـــــه قزی",
-image:"images/1 (20).png",
+image:"1 (20).png",
 job:"شهروند",
 type:"معمولی",
 workplace:"ندارد",
@@ -169,7 +169,7 @@ description:""
 {
 id:12,
 name:"فرهـــاد مـــوتوری",
-image:"images/1 (21).png",
+image:"1 (21).png",
 job:"موتوری",
 type:"معمولی",
 workplace:"ندارد",
@@ -182,7 +182,7 @@ description:""
 {
 id:13,
 name:"هاشـــم کـــف بـــرگ",
-image:"images/1 (22).png",
+image:"1 (22).png",
 job:"سرباز",
 type:"معمولی",
 workplace:"ندارد",
@@ -195,7 +195,7 @@ description:""
 {
 id:14,
 name:"حشمـــــ💪ــــــت دمبل",
-image:"images/1 (23).png",
+image:"1 (23).png",
 job:"ورزشکار",
 type:"کمیاب",
 workplace:"ندارد",
@@ -208,7 +208,7 @@ description:""
 {
 id:15,
 name:"مهنـــاز شـــ💉ــــربتی",
-image:"images/1 (24).png",
+image:"1 (24).png",
 job:"پرستار",
 type:"کمیاب",
 workplace:"بیمارستان",
@@ -221,7 +221,7 @@ description:"مهارت ویژه: افزایش انرژی پلیرها."
 {
 id:16,
 name:"فریـــــ🚒ـــــد فـــایر",
-image:"images/1 (25).png",
+image:"1 (25).png",
 job:"آتش‌نشان",
 type:"کمیاب",
 workplace:"ندارد",
@@ -234,7 +234,7 @@ description:""
 {
 id:17,
 name:"داوود والتـــــ⚗️ـــــر",
-image:"images/1 (26).png",
+image:"1 (26).png",
 job:"شیمی‌دان",
 type:"کمیاب",
 workplace:"کارخانه سوخت",
@@ -250,7 +250,7 @@ description:""
 {
 id:18,
 name:"کاووس شبـــــ🌙ـــــرو",
-image:"images/1 (27).png",
+image:"1 (27).png",
 job:"ناشناس",
 type:"کمیاب",
 workplace:"ندارد",
@@ -263,7 +263,7 @@ description:"کاووس شبرو یکی از اسکین‌های کمیاب و �
 {
 id:19,
 name:"اوس جـــــ‍🔧ـــــواد",
-image:"images/1 (28).png",
+image:"1 (28).png",
 job:"مکانیک",
 type:"کمیاب",
 workplace:"تمامی تعمیرگاه (مکانیکی) ‌های بازی",
@@ -276,7 +276,7 @@ description:"مهارت ویژه: تعمیر وسایل نقلیه."
 {
 id:20,
 name:"کریم جـــــ🔍ـــــون سخت",
-image:"images/1 (29).png",
+image:"1 (29).png",
 job:"کارآگاه",
 type:"کمیاب",
 workplace:"زندان",
@@ -289,7 +289,7 @@ description:"مهارت ویژه: آزاد کردن زندانی‌ها."
 {
 id:21,
 name:"بیژن سیـــــ🎸ـــــم سوز",
-image:"images/1 (30).png",
+image:"1 (30).png",
 job:"گیتاریست",
 type:"کمیاب",
 workplace:"ندارد",
@@ -302,7 +302,7 @@ description:""
 {
 id:22,
 name:"بهـــمن بیـــگ مشـــت",
-image:"images/1 (31).png",
+image:"1 (31).png",
 job:"فرمانده",
 type:"کمیاب",
 workplace:"ندارد",
@@ -315,7 +315,7 @@ description:""
 {
 id:23,
 name:"نیمـــا کـــارواشـــی",
-image:"images/1 (32).png",
+image:"1 (32).png",
 job:"کارواشی",
 type:"کمیاب",
 workplace:"کارواش پشت بانک اصلی",
@@ -328,7 +328,7 @@ description:""
 {
 id:24,
 name:"دکـــــ💊ـــــتر",
-image:"images/1 (33).png",
+image:"1 (33).png",
 job:"پزشک",
 type:"حماسی",
 workplace:"ندارد",
@@ -341,7 +341,7 @@ description:"برای باگ دارو (سکه طلایی) این اسکین نی
 {
 id:25,
 name:"آقای فرمـــــ🏦ــــــچی",
-image:"images/1 (1).png",
+image:"1 (1).png",
 job:"کارمند بانک",
 type:"حماسی",
 workplace:"تمامی بانک‌های شهر",
@@ -354,7 +354,7 @@ description:"مهارت ویژه: پرداخت حقوق بازیکنان."
 {
 id:26,
 name:"فری یاقـــــ💎ـــــوتی",
-image:"images/1 (2).png",
+image:"1 (2).png",
 job:"جواهرساز",
 type:"حماسی",
 workplace:"تمامی جواهر فروشی‌ های بازی و ثبت احوال",
@@ -372,7 +372,7 @@ description:"💸پولدار ترین اسکین بازی💸\nسطح ۴: خر�
 {
 id:27,
 name:"منوچ خـــــ😴ـــــسته",
-image:"images/1 (3).png",
+image:"1 (3).png",
 job:"ناشناس",
 type:"حماسی",
 workplace:"ندارد",
@@ -385,7 +385,7 @@ description:""
 {
 id:28,
 name:"آقای مدیـــــ👔ـــــری",
-image:"images/1 (4).png",
+image:"1 (4).png",
 job:"مدیرعامل",
 type:"حماسی",
 workplace:"ندارد",
@@ -398,7 +398,7 @@ description:""
 {
 id:29,
 name:"قباد کـــــ👮ـــــلانتر",
-image:"images/1 (5).png",
+image:"1 (5).png",
 job:"پلیس",
 type:"افسانه‌ای",
 workplace:"ندارد",
@@ -413,7 +413,7 @@ description:"مهارت ویژه: زندانی کردن ۱۰ دقیقه‌ای �
 {
 id:30,
 name:"آریـــــ👑ـــــا خان",
-image:"images/1 (6).png",
+image:"1 (6).png",
 job:"پادشاه",
 type:"افسانه‌ای",
 workplace:"ندارد",
@@ -426,7 +426,7 @@ description:"دومین اسکین پولدار بازی."
 {
 id:31,
 name:"بـــزرگ آقـ‍ــا",
-image:"images/1 (7).png",
+image:"1 (7).png",
 job:"پدرخوانده",
 type:"افسانه‌ای",
 workplace:"ندارد",
@@ -439,7 +439,7 @@ description:""
 {
 id:32,
 name:"سامی پـــــ🚁ـــــایلوت",
-image:"images/1 (8).png",
+image:"1 (8).png",
 job:"خلبان",
 type:"افسانه‌ای",
 workplace:"فرودگاه (باند هلیکوپتر)",
@@ -452,7 +452,7 @@ description:""
 {
 id:33,
 name:"سیروس بنگاهی",
-image:"images/1 (9).png",
+image:"1 (9).png",
 job:"املاکی",
 type:"افسانه‌ای",
 workplace:"ندارد",
