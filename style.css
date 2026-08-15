@@ -1,4 +1,11 @@
-﻿*{
+@font-face {
+    font-family: "RP U Omelet Emoji";
+    src: url("fonts/RPU-Omelet-Emoji.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
     margin:0;
     padding:0;
     box-sizing:border-box;
