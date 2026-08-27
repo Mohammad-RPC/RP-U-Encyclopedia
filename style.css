@@ -338,6 +338,13 @@ h1{
     src: url("fonts/RPU-Omelet-Emoji.ttf") format("truetype");
 }
 
+    .omelet-icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
 .item-text {
     font-family: "RP U Omelet Emoji", sans-serif;
 }
