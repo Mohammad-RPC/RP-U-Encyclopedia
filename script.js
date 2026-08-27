@@ -175,8 +175,8 @@ items.innerHTML="<li>ندارد</li>";
 c.items.forEach(i=>{
 
 let item = i.replace(
-"🍳",
-'<img src="images/omelet.png" style="width:24px;height:24px;vertical-align:middle;object-fit:contain;">'
+"🫥",
+'<img src="omelet.png" style="width:24px;height:24px;vertical-align:middle;object-fit:contain;">'
 );
 
 items.innerHTML+="<li>"+item+"</li>";
