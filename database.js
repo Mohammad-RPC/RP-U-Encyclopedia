@@ -395,8 +395,23 @@ items:[],
 description:""
 },
 
-{
+  {
 id:29,
+name:"بهـــــ👷ـــــرام کوه کـــــ⛏️ـــــن",
+image:"BKKan.png",
+job:"معدن چی",
+type:"کمیاب",
+workplace:"معدن کویر",
+level:"سطح ۷",
+vehicle:"ندارد",
+items:[
+  "(سطح ۲) زغال سنگ 🪨"
+],
+description:""
+}, 
+
+{
+id:30,
 name:"قباد کـــــ👮ـــــلانتر",
 image:"1 (5).png",
 job:"پلیس",
@@ -411,7 +426,7 @@ description:"مهارت ویژه: زندانی کردن ۱۰ دقیقه‌ای �
 },
 
 {
-id:30,
+id:31,
 name:"آریـــــ👑ـــــا خان",
 image:"1 (6).png",
 job:"پادشاه",
@@ -424,7 +439,7 @@ description:"دومین اسکین پولدار بازی."
 },
 
 {
-id:31,
+id:32,
 name:"بـــزرگ آقـ‍ــا",
 image:"1 (7).png",
 job:"پدرخوانده",
@@ -436,20 +451,7 @@ items:[],
 description:""
 },
 
-{
-id:32,
-name:"سامی پـــــ🚁ـــــایلوت",
-image:"1 (8).png",
-job:"خلبان",
-type:"افسانه‌ای",
-workplace:"فرودگاه (باند هلیکوپتر)",
-level:"سطح ۹ (MAX)",
-vehicle:"هلیکوپتر 🚁",
-items:[],
-description:""
-},
-
-{
+   {
 id:33,
 name:"سیروس بنگاهی",
 image:"1 (9).png",
@@ -458,6 +460,19 @@ type:"افسانه‌ای",
 workplace:"ندارد",
 level:"سطح ۹ (MAX)",
 vehicle:"ندارد",
+items:[],
+description:""
+},
+
+   {
+id:34,
+name:"سامی پـــــ🚁ـــــایلوت",
+image:"1 (8).png",
+job:"خلبان",
+type:"افسانه‌ای",
+workplace:"فرودگاه (باند هلیکوپتر)",
+level:"سطح ۹ (MAX)",
+vehicle:"هلیکوپتر 🚁",
 items:[],
 description:""
 }
