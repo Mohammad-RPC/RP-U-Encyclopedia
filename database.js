@@ -174,7 +174,7 @@ job:"موتوری",
 type:"معمولی",
 workplace:"ندارد",
 level:"سطح ۵",
-vehicle:"🛵وسپا کلاسیک🛵",
+vehicle:"🛵وسپا کلاسیک🛵 --- 🏍CB 1300🏍",
 items:[],
 description:""
 },
